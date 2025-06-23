@@ -6,4 +6,7 @@ Here use can have idea of Allowed workspace of Robot, Can move and controll robo
 
 Apart from that, to do somthing interasting and fun a Tik_Tak-Toe Game application is also implemented.
 
+a Demo is presented below, where red path is the path yet to be transmitted.(due to speed limitation of robot)
+PersistentTrajectorySpeedManipulator.h class handles this.
+
 ![App Screenshot](Demo.png)
