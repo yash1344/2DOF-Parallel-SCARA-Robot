@@ -1,0 +1,3 @@
+"C:/Qt/6.9.0/mingw_64/bin/moc.exe" -I"C:/Qt/6.9.0/mingw_64/include" -o "src/moc_DrawingCanvas.cpp" "src/DrawingCanvas.h"
+"C:/Qt/6.9.0/mingw_64/bin/moc.exe" -I"C:/Qt/6.9.0/mingw_64/include" -o "src/moc_TTT.cpp" "src/TTT.h"
+"C:/Qt/6.9.0/mingw_64/bin/moc.exe" -I"C:/Qt/6.9.0/mingw_64/include" -o "src/moc_MainWindow.cpp" "src/MainWindow.h"
